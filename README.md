@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I'm a front end developer at Zobyeteam and Superfive studio developing game scripts,
 - 🌱 I'm currently studying at KhonKaen Wittayayon School School
 - ✉️ Contact me at email bookthanakorn5@gmail.com
