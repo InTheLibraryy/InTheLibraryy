@@ -15,3 +15,8 @@
 
 ![ Libraryy"s Github Top Langs (Loading..., Please refresh website.) ](https://github-readme-stats-seven-dun-61.vercel.app/api/top-langs/?username=InTheLibraryy&show_icons=true&theme=radical)
 
+<p align=center>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=lua,dart,flutter,arduino,html,css,js,tailwind,vue,react,nodejs,mysql,git,github,githubactions" />
+  </a>
+</p>
