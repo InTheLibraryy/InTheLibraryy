@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Thanakorn Rattanabordeedacha ( Libraryy ) 👋
 
 - 🔭 I'm a front end developer at Zobyeteam and Superfive studio developing game scripts,
 - 🌱 I'm currently studying at KhonKaen Wittayayon School School
