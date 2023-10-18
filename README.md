@@ -17,6 +17,6 @@
 
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,dart,flutter,arduino,html,css,js,tailwind,vue,react,nodejs,mysql,git,github,githubactions" />
+    <img src="https://skillicons.dev/icons?i=lua,dart,flutter,html,css,js,tailwind,vue,react,nodejs,mysql,git,github,githubactions" />
   </a>
 </p>
